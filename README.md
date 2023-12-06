@@ -1,5 +1,5 @@
 # Descrição:
-A avaliação tinha como intenção a integração do Python em outras linguagens.
+A avaliação realizada pela SAEP tendo como intenção realizar um aplicativo web ou desktop para um sitema de ensino.
 Para realização dessa tarefa eu utilizei o Django Framework para a integração, deixei o SQlite como linguagem padrão para o banco de dados e o Bootstrap como Framework Front End.
 
 ---
